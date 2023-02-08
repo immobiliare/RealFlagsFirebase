@@ -46,8 +46,6 @@ We are currently using RealFlagsFirebase in all of our products.
 
 ## Support
 
-<a href="http://labs.immobiliare.it"><img src="./documentation/assets/immobiliarelabs.png" alt="ImmobiliareLabs" width="200"/></a>
-
 We'd love for you to contribute to RealFlagsFirebase! 
 If you have questions about using RealFlagsFirebase, bugs, and enhancement, please feel free to reach out by opening a [GitHub Issue](https://github.com/immobiliare/RealFlagsFirebase/issues).
 
